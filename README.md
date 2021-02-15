@@ -1,2 +1,2 @@
 # frank_sinatra
-simple web-application
+simple web-application using node.js
